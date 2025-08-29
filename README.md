@@ -25,9 +25,9 @@
 
 ### Task 7
 
-📖 Blog API ([NestJS](https://github.com/nestjs/nest) + Prisma + SQLite)
+📖 Blog API ([NestJS](https://github.com/litteup/KodeCamp5.0IntermediateBENodeJsTask7) + Prisma + SQLite)
 
-A simple RESTful Blog API built with [Nest](https://github.com/nestjs/nest),, TypeScript, Prisma ORM, and SQLite.
+A simple RESTful Blog API built with [Nest](https://github.com/litteup/KodeCamp5.0IntermediateBENodeJsTask7),, TypeScript, Prisma ORM, and SQLite.
 This API provides CRUD (Create, Read, Update, Delete) operations for managing blog articles.
 
 ## 🚀 Features
